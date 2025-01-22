@@ -64,6 +64,4 @@ libraryDependencies ++= Seq(
 )
 ```
 
-3. Usa el comando `sbt update` para descargar las dependencias.
-
 ---
